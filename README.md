@@ -1,7 +1,7 @@
 Bank Customer Analysis & KPI Reporting
 
 Tools Used
-- SQL: Subqueries, Joins, Aggregations
+- SQL: Subqueries, Joins, Aggregations, Views
 - Entity-Relationship (ER) Modeling
 
 Dataset Focus
