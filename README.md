@@ -1,20 +1,20 @@
-💼 Bank Customer Analysis & KPI Reporting
+Bank Customer Analysis & KPI Reporting
 
-🧰 Tools Used
+Tools Used
 - SQL: Subqueries, Joins, Aggregations
 - Entity-Relationship (ER) Modeling
 
-📂 Dataset Focus
+Dataset Focus
 Customer activity data across checking and credit card products.
 
-📊 Project Overview
+Project Overview
 Developed a dynamic KPI reporting system to evaluate customer engagement across multiple banking products. Leveraged normalized datasets to derive key performance indicators, including:
 - Customer Tenure
 - Total Active Accounts
 - Aggregate Assets
 - Product Join Dates
 
-✨ Key Features & Highlights
+Key Features & Highlights
 - Customer Relationship Start Date
 Identified the earliest interaction date across multiple product tables for accurate tenure calculation.
 - Account Activity Aggregation
