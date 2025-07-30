@@ -1,4 +1,5 @@
 🏦 Bank Customer Analysis & KPI Reporting
+
 Tools: 
 SQL (Subqueries, Joins, Aggregations), ER ModelingDatabase Focus: Customer activity datasets (checking + credit card)
 
